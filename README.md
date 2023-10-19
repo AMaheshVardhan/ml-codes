@@ -1,4 +1,3 @@
-# IntroductionToTensorFlow
 # Number Series Predictor Using Machine Learning
 
 This Python script demonstrates a basic example of using machine learning to predict values in a number series. In this case, it predicts Fahrenheit temperatures based on Celsius temperatures using a linear regression model.
