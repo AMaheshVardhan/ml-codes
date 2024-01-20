@@ -70,4 +70,3 @@ def cleanText(text, lemmatize=True, stemmer=True, remove_stopwords=True):
 text = input("Enter text: ")
 cleaned_text = cleanText(text, lemmatize=True, stemmer=True, remove_stopwords=True)
 print("Cleaned Text:", cleaned_text)
-    
